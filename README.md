@@ -21,8 +21,8 @@ In its current state, the bot is perfectly functioning, but the code is highly u
 Clone the repository and install dependencies:
 
 ```bash
-git clone [Your Repository URL]
-cd [Your Repository Directory]
+git clone https://github.com/Ancastal/ChestShop-Analyzer
+cd ChestShop-Analyzer
 pip install -r requirements.txt
 ```
 
