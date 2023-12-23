@@ -38,11 +38,11 @@ python app.py
 ## Usage
 Users can interact with the bot through various commands within Discord:
 
-`!price <item>`: Shows median and average prices for an item.
-`!history <item>`: Displays the price history of a particular item.
-`!inspect <item> [month]`: Shows the trade volume for an item.
-`!player <player_name>`: Retrieves market transactions associated with a specific player.
-`!tax <month>`: Reports the accumulated ChestShop tax for a specified month.
+- `!price <item>`: Shows median and average prices for an item.
+- `!history <item>`: Displays the price history of a particular item.
+- `!inspect <item> [month]`: Shows the trade volume for an item.
+- `!player <player_name>`: Retrieves market transactions associated with a specific player.
+- `!tax <month>`: Reports the accumulated ChestShop tax for a specified month.
 
 ## License
 This project is licensed under MIT License. See LICENSE.md for more details.
