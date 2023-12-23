@@ -5,7 +5,6 @@ from collections import defaultdict
 from dotenv import load_dotenv
 from discord.ext import commands, menus
 from datetime import datetime
-from keep_alive import keep_alive
 from table2ascii import table2ascii as t2a, PresetStyle
 import math
 import threading
