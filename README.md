@@ -43,6 +43,7 @@ Users can interact with the bot through various commands within Discord:
 - `!inspect <item> [month]`: Shows the trade volume for an item.
 - `!player <player_name>`: Retrieves market transactions associated with a specific player.
 - `!tax <month>`: Reports the accumulated ChestShop tax for a specified month.
+- and many more...
 
 ## License
 This project is licensed under MIT License. See LICENSE.md for more details.
